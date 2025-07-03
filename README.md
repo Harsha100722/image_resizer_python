@@ -1,4 +1,4 @@
-# Image Resizer Tool (Batch)
+# Image Resizer Tool 
 
 A simple Python tool to resize and convert images in batch, built using the Pillow library.
 
